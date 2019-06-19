@@ -1,0 +1,250 @@
+*{
+	margin: 0;
+    box-sizing: border-box;
+
+}
+
+.now{
+	font-weight: bold;
+}
+
+.navbar-brand{
+	margin-left: 30px;
+
+}
+.navbar-nav{
+	margin-left: 750px;
+	font-family: 'Niramit', sans-serif;
+	
+}
+.nav-item{
+	margin-right: 15px;
+
+}
+/*.home-main{
+	height: 600px;
+	display: block;
+	width: 100%;
+	background-image: url('../photo/home-01.jpg');
+	background-position: center;
+	background-size: cover;
+	text-align: center;
+	line-height: 600px;
+
+}*/
+.carousel-caption .profile-view{
+	font-size: 16px;
+	border: 2px solid white;
+	padding: 13px 50px;
+	width: 200px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 150px;
+	color: white;
+	text-decoration: none;
+	display: block;
+	font-family: 'Niramit', sans-serif;
+}
+
+
+.carousel-caption .profile-view:hover{
+	background-color: white;
+	color: green;
+	font-weight: bold;
+}
+
+
+.carousel-caption h2{
+	text-align: center;
+	margin-bottom: 15px;
+	font-size: 80px;
+	font-family: 'Fugaz One', cursive;
+}
+
+.carousel-caption p{
+	text-align: center;
+	margin-bottom: 165px;
+	font-size: 18px;
+	font-family: 'Saira', sans-serif;
+	
+}
+
+.carousel-caption h3{
+	font-family: 'Niramit', sans-serif;
+	font-size: 55px;
+	margin-bottom: 15px;
+	
+	
+}
+
+.carousel-caption h5{
+	font-family: 'Noto Serif KR', serif;
+	font-size: 30px;
+	margin-bottom: 50px;
+}
+
+.carousel-item{
+	height: 600px;
+	/*display: block;
+	width: 100%;
+	background-image: url('../photo/home-01.jpg');
+	background-position: center;
+	background-size: cover;
+	text-align: center;
+	line-height: 600px;*/
+}
+
+/*.sub{
+	margin-bottom: 30px;
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 850px;
+	
+}*/
+.clearfix{
+	clear: both;
+}
+
+.subpage{
+	width: 900px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+
+.sub {
+	box-sizing: border-box;
+	box-shadow: 2px 2px #C6FF5A;
+    height: 600px;
+    margin-top: 50px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 50px;	 		
+	/*background-color: blue;*/
+	padding: 5px 15px;
+}
+
+.sub-title{
+	display: block;
+	float: left;
+	font-family: 'Fugaz One', cursive;
+	
+	margin-right: auto;
+	margin-left: auto;	
+}
+
+.sub-t{
+	font-size: 50px;
+}
+
+.sub-t2{
+	margin-top: 50px;
+	text-align: center;
+	display: block;
+	background-color: white;
+	width: 300px;
+	border: 3px solid black;
+	padding:8px 10px; ;
+	font-family: 'Fugaz One', cursive;
+	box-shadow: 5px 5px black;
+}
+
+
+.sub-sum{
+	margin-top: 180px;
+	font-family: 'Nanum Gothic', sans-serif;
+	font-size: 15px;
+	font-weight: bold;  
+}
+
+.sub-image{
+	position: relative;
+	margin-bottom: 30px;
+	padding-bottom: 50px;
+}
+
+
+
+.sub-image1{
+	margin-top: 20px;
+	margin-left: 50px;
+    display: inline-block;
+	
+
+}
+.sub-image2{
+	position: absolute;
+	top: 120px;
+	right: 40px;
+}
+.sub-image21{
+	position: absolute;
+	top: 120px;
+	right: 80px;
+}
+
+.sub-title .sub-t2-1{
+	margin-top: 50px;
+	text-align: center;
+	display: block;
+	background-color: white;
+	width: 220px;
+	border: 3px solid black;
+	padding:15px 10px; ;
+	font-family: 'Fugaz One', cursive;
+	box-shadow: 5px 5px black;
+	text-decoration: none;
+}
+
+
+
+
+
+
+
+.clearfix{
+	clear: both;
+}
+
+.photo{
+	margin-top: 80px;
+	height: 441px;
+	width: 1118px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 200px;
+}
+
+.photo h2{
+	padding-bottom: 25px;
+	border-bottom: 1px solid gray;
+	margin-bottom: 20px;
+	font-family: 'Fugaz One', cursive;
+	font-size: 20px;
+	text-align: center;
+}
+
+.photo img{
+	float: left;
+}
+
+.footer{
+	display: block;
+	width:100%;
+	padding-top: 18px;
+	padding-left: 20px;
+	height: 100px;
+	background-color: #DDDDDD;
+	color: white;
+	font-family: 'Raleway', sans-serif;
+}
+
+.footer p{
+	font-size: 15px;
+
+	padding: 10px 20px;
+}
+
